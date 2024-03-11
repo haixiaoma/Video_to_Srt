@@ -11,7 +11,7 @@
 
 以下是应用的主要界面截图：
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![img.png](icon%2Fimg.png)
+![img_1.png](icon%2Fimg_1.png)
+![img_2.png](icon%2Fimg_2.png)
+![img_3.png](icon%2Fimg_3.png)
